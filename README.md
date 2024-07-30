@@ -28,7 +28,7 @@ TensorFlow: 2.6.2
 
 
 
-
+---
 ### Acknowledgments
 The code is basically a modification of [ssl_compact_clustering](https://github.com/Kamnitsask/ssl_compact_clustering) implemented in TensorFlow 2. All credit goes to the authors of '[Semi-Supervised Learning via Compact Latent Space Clustering](https://arxiv.org/abs/1806.02679)', Konstantinos Kamnitsas, Daniel C. Castro, Loic Le Folgoc, Ian Walker, Ryutaro Tanno, Daniel Rueckert, Ben Glocker, Antonio Criminisi, Aditya Nori.
 
@@ -44,7 +44,7 @@ The code is basically a modification of [ssl_compact_clustering](https://github.
 ```
 
 
-
+---
 ### References
 - https://github.com/Kamnitsask/ssl_compact_clustering
 
