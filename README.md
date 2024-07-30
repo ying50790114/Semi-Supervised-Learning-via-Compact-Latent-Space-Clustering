@@ -1,6 +1,5 @@
 # Implementation of 'Semi-Supervised Learning via Compact Latent Space Clustering'
 
----
 This is a TensorFlow2 implementation of the method described in the paper 'Semi-Supervised Learning via Compact Latent Space Clustering' by Konstantinos Kamnitsas, Daniel C. Castro, Loic Le Folgoc, Ian Walker, Ryutaro Tanno, Daniel Rueckert, Ben Glocker, Antonio Criminisi, Aditya Nori.
 
 **Paper Link:** https://arxiv.org/pdf/1806.02679
@@ -28,7 +27,7 @@ TensorFlow: 2.6.2
 **main.py:** 透過 cclp loss 和 id loss 進行模型參數更新。
 
 
----
+
 
 ### Acknowledgments
 The code is basically a modification of [ssl_compact_clustering](https://github.com/Kamnitsask/ssl_compact_clustering) implemented in TensorFlow 2. All credit goes to the authors of '[Semi-Supervised Learning via Compact Latent Space Clustering](https://arxiv.org/abs/1806.02679)', Konstantinos Kamnitsas, Daniel C. Castro, Loic Le Folgoc, Ian Walker, Ryutaro Tanno, Daniel Rueckert, Ben Glocker, Antonio Criminisi, Aditya Nori.
@@ -45,7 +44,7 @@ The code is basically a modification of [ssl_compact_clustering](https://github.
 ```
 
 
----
+
 ### References
 - https://github.com/Kamnitsask/ssl_compact_clustering
 
